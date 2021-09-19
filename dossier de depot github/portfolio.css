@@ -1,0 +1,189 @@
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+}
+.page1{
+    background: url(julian-o-hayon-Bs-zngH79Ds-unsplash.jpg);
+    background-size: cover;
+   
+}
+ .page1:hover{
+     background: url(domenico-loia-EhTcC9sYXsw-unsplash.jpg);
+     background-size: cover;
+ }
+.page2{
+    
+    background-image: url(willian-justen-de-vasconcellos-hPcF0UCpNhs-unsplash.jpg);
+    background-size: cover;
+}
+ .page2:hover{
+     background: url(luke-chesser-a2NRu2Wxa2o-unsplash.jpg);
+     background-size: cover;
+ }
+.page3{
+    background: KAMBIRE ISSOUF;
+
+
+}
+.page4 {
+    
+    background-image: url(oliur-8jSTB6NLmVQ-unsplash.jpg);
+    background-size: cover;
+}
+.page5 {
+
+    background-image: url(luke-chesser-a2NRu2Wxa2o-unsplash.jpg);
+    background-size: cover;
+}
+
+.page6 {
+    text-align: center;
+    background-image: url(farzad-nazifi-p-xSl33Wxyc-unsplash.jpg);
+    background-size: cover;
+}
+nav{
+    background-color: #f2f2ee;
+    background-color: rgba(247, 242, 242, 0.815);
+    color: black;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1); 
+    padding: 10px;
+    height: 100px;
+    width: 1330px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    right: 10px;
+    top: -10px;
+}
+
+/* mon menu nav */
+
+.accueil{position: absolute;
+    left: 50px;
+top: 30px;
+font-size: 20px;
+
+}
+
+.biographie{
+    position: absolute;
+    left: 500px;
+}
+
+.competence {
+    position: absolute;
+    right: 500px;
+}
+
+.generale{
+    position: absolute;
+    right: 300px;
+}
+
+.realisation {
+    position: absolute;
+    right: 150px;
+}
+.contact{
+    position: absolute;
+    right: 20px;
+}
+
+/*mon footer*/
+
+footer{
+    position: relative;
+    bottom: -410px;
+    left: 0px;
+    background-color: #110303;
+    color: white;
+    width: 1340px;
+    height: 70px;
+}
+.pied2 {
+    position: absolute;
+    right: 8px;
+    top: 5px;
+}
+h1 {
+    color: #e11f1f;
+}
+
+/*mes paragraphs*/
+
+.body6 {
+    text-align: center;
+
+}
+#p1{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+.p31 {
+    text-align: center;
+    background-color: #f0eeeef8;
+    padding: 20px;
+    width: 600px;
+    position: absolute;
+    left: 500px;
+}
+.p32{
+    position: absolute;
+    left: 500px;
+    top: 550px;
+    background-color: #f0eeeef8;
+    width: 600px;
+    padding: 20px;
+}
+.p33 {
+    border: 2px solid black;
+}
+
+.DC {
+    position: relative;
+    left: 200px;
+
+}
+#dc1{
+    border: 2px solid black;
+}
+#rectangle {
+    width: 200px;
+    height: 15px;
+    background-color: blue;
+    position: absolute;
+    left: 200px;
+    top: 2px;
+}
+#rectangle1 {
+    width: 200px;
+    height: 15px;
+    background-color: blue;
+    position: absolute;
+    left: 200px;
+    top: 35px;
+}
+#rectangle2 {
+    width: 200px;
+    height: 15px;
+    background-color: blue;
+    position: absolute;
+    left: 200px;
+    top: 70px;
+}
+#rectangle3 {
+    width: 200px;
+    height: 15px;
+    background-color: blue;
+    position: absolute;
+    left: 200px;
+    top: 100px;
+}
+#rectangle4 {
+    width: 200px;
+    height: 15px;
+    background-color: blue;
+    position: absolute;
+    left: 200px;
+    top: 135px;
+    
+}
